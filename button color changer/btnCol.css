@@ -1,0 +1,28 @@
+#wrapper{
+    margin:auto;
+    width: 750px;
+    height: 450px;
+    background-color: #9932cc;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#change-colour{
+    width: 260px;
+    height: 80px;
+    padding: 20px;
+    border-radius: 22px;
+    border-style: none;
+    background-color: #000;
+    font-size: 20px;
+    margin-left: 250px;
+    color: #fff;
+}
+#change-colour:hover{
+    background-color: white;
+    color: black;
+}
